@@ -1,0 +1,18 @@
+Food web crawler
+-Find the best restaurants near me, with my food preferences
+-Select based on menu items that have been parsed by an LLM.
+
+
+Web Craawler
+- need to download restaurant content
+- How are we searching for these websites/restaurants?
+    - Query search engines: google, yelp, reddit
+    - Query top restaurant blogs for restaurants they have been to
+    - Query Maps API/interfaces
+
+- The most challenging part is the heavy data processing that will have to happen
+    - How do we improve the processing, better hardware?
+    - AI work better off of GPUs, light and analog based GPUs, matrix multiplications.
+    - How far can we get with the current tools we have available.
+    - Better data processing algorithms
+
